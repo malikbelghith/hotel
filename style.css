@@ -1,0 +1,376 @@
+.inscri {
+  background-color: rgb(67, 151, 224);
+  color: white;
+  border: none;
+  font-size: 14px;
+  width: 150px;
+  height: 35px;
+  font-family: "Cairo", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-left: -14px;
+}
+.logohotel {
+  width: 180px;
+  margin-right: 42px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Cairo", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 1px;
+  gap: 26px;
+  color: white;
+}
+nav p {
+  cursor: pointer;
+}
+.arab {
+  padding-left: 108px;
+  padding-right: 50px;
+}
+
+.verticalright {
+  border-left: 1px solid white;
+  height: 89px;
+  margin-top: -100px;
+  margin-left: 191px;
+}
+.verticalleft {
+  border-left: 1px solid white;
+  height: 89px;
+  margin-top: -88px;
+  margin-left: 1318px;
+}
+body {
+  background-image: url(/img/header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  image-rendering: optimizeQuality;
+}
+.bienvenue {
+  color: white;
+  font-size: 100px;
+  font-weight: 1000;
+  font-family: "Cairo", sans-serif;
+  line-height: 140px;
+  text-align-last: right;
+  margin-right: 150px;
+}
+.numbers {
+  line-height: 140px;
+  color: white;
+  font-size: 26px;
+  font-weight: 100;
+  margin-left: 102px;
+  margin-top: -108px;
+}
+.vertical {
+  border-left: 2px solid white;
+  height: 130px;
+  margin-left: 113px;
+  margin-top: -245px;
+}
+.booking {
+  width: 1106px;
+  height: 60px;
+  border: 3px solid white;
+  background-color: white;
+  margin-left: 235px;
+  margin-top: -54px;
+}
+.date {
+  line-height: 7px;
+  text-align: right;
+  padding-right: 10px;
+  margin-top: -8px;
+  font-family: "Cairo", sans-serif;
+}
+.date::first-line {
+  color: rgb(67, 151, 224);
+  font-size: 14px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+.july {
+  font-size: 17px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 51px;
+}
+.separation {
+  border-left: 1px solid gray;
+  height: 52px;
+  margin-left: 897px;
+  margin-top: -62px;
+  opacity: 0.5;
+}
+.arrival {
+  line-height: 7px;
+  text-align: right;
+  padding-right: 236px;
+  margin-top: -65px;
+  font-family: "Cairo", sans-serif;
+}
+.arrival::first-line {
+  color: rgb(67, 151, 224);
+  font-size: 14px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+.arrivaldate {
+  font-size: 17px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 51px;
+}
+.separation2 {
+  border-left: 1px solid gray;
+  height: 52px;
+  margin-left: 644px;
+  margin-top: -62px;
+  opacity: 0.5;
+}
+.custumors {
+  line-height: 7px;
+  text-align: right;
+  padding-right: 489px;
+  margin-top: -65px;
+  font-family: "Cairo", sans-serif;
+}
+.custumors::first-line {
+  color: rgb(67, 151, 224);
+  font-size: 14px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+.fleche {
+  font-size: 17px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 51px;
+}
+.separation3 {
+  border-left: 1px solid gray;
+  height: 52px;
+  margin-left: 459px;
+  margin-top: -62px;
+  opacity: 0.5;
+}
+.rooms {
+  line-height: 7px;
+  text-align: right;
+  padding-right: 675px;
+  margin-top: -65px;
+  font-family: "Cairo", sans-serif;
+}
+.rooms::first-line {
+  color: rgb(67, 151, 224);
+  font-size: 14px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+.roomnumbers {
+  font-size: 17px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 51px;
+}
+.separation4 {
+  border-left: 1px solid gray;
+  height: 52px;
+  margin-left: 275px;
+  margin-top: -62px;
+  opacity: 0.5;
+}
+.promo {
+  line-height: 12px;
+  text-align: right;
+  padding-right: 851px;
+  margin-top: -58px;
+  font-family: "Cairo", sans-serif;
+}
+.promo::first-line {
+  color: rgb(67, 151, 224);
+  font-size: 14px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+.promocode {
+  font-size: 17px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 51px;
+}
+.search {
+  width: 162px;
+  height: 58px;
+  background-color: rgb(52, 52, 215);
+  color: white;
+  border: none;
+  margin-top: -50px;
+  position: absolute;
+  margin-left: 238px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Cairo", sans-serif;
+}
+.middle {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.bestservice {
+  width: 701px;
+  height: 240px;
+  text-align: right;
+  border: 3px solid white;
+  background-color: white;
+  font-family: "Cairo", sans-serif;
+  font-weight: bolder;
+  margin-top: 98px;
+  padding-right: 78px;
+  font-size: 16px;
+}
+.bestservice::first-line {
+  font-size: 50px;
+  font-family: "Cairo", sans-serif;
+  font-weight: 800;
+}
+.imgbesthotel {
+  width: 601px;
+  height: 476px;
+  margin-left: -297px;
+  margin-right: 168px;
+}
+.afraa {
+  margin-top: -44px;
+  margin-right: 520px;
+}
+.rooms1 {
+  width: 1512px;
+  height: 240px;
+  border: 3px solid #e5e7e9;
+  background-color: #e5e7e9;
+  margin-top: 20px;
+  margin-left: -8px;
+}
+.roomsandsuits {
+  font-size: 60px;
+  font-family: "Cairo", sans-serif;
+  font-weight: bold;
+  margin-left: 975px;
+  margin-top: 4px;
+}
+
+.chambre {
+  position: relative;
+  margin-left: 777px;
+  z-index: 1;
+}
+.image__img {
+  display: block;
+  width: 565px;
+  height: 495px;
+}
+.image__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 565px;
+  height: 495px;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-family: "Cairo", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  opacity: 0;
+  transition: opacity 0.25s;
+}
+.image__overlay:hover {
+  opacity: 1;
+}
+.image__title {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.image__description {
+  font-size: 20px;
+  margin-top: 30px;
+}
+.title__above {
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: "Cairo", sans-serif;
+  margin-left: 1012px;
+  margin-top: -404px;
+  position: relative;
+  color: white;
+}
+
+.suite {
+  position: relative;
+
+  margin-left: 47px;
+  margin-top: -207px;
+}
+.suite__img {
+  display: block;
+  width: 565px;
+  height: 495px;
+}
+.image__overlay1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 565px;
+  height: 495px;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-family: "Cairo", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  opacity: 0;
+  transition: opacity 0.25s;
+}
+.image__overlay1:hover {
+  opacity: 1;
+}
+.image__title1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.image__description1 {
+  font-size: 20px;
+  margin-top: 30px;
+}
+.confort {
+  background-image: url(/img/hotel\ arfaa.png);
+  background-repeat: no-repeat;
+  background-size: 700vh;
+}
